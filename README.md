@@ -1,4 +1,10 @@
-2014-02-24-esac
-===============
+Bootcamp at European Space Astronomy Centre, February 24 2014
+=============================================================
 
-Webpage for the ESAC software-carpentry bootcamp
+This repository hosts material used in the February 2014 bootcamp at
+the European Space Astronomy Centre.
+
+Instructors:
+
+* Azalee Bostroem (@abostroem)
+* Justin Ely (@justincely)
