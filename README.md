@@ -13,4 +13,4 @@ Instructors:
 ##How to use this folder
 
 * All of the material we present in class is in the lesson's folder
-* to start an ipython notebook, cd to the directory which contains the notebook you want to view. Type:<code> ipython notebook </code> -or- <code> ipython notebook --pylab i</code>f you want to plot
+* to start an ipython notebook, cd to the directory which contains the notebook you want to view. Type:<code> ipython notebook </code> -or- <code> ipython notebook --pylab </code> if you want to plot
